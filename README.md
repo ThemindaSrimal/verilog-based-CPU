@@ -1,1 +1,1 @@
-8-bit-single-cycle-processor using Verilog HDL
+32-bit CPU based on Verlog
